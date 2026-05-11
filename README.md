@@ -1,23 +1,28 @@
-# xscrape 
+# xscrape
 
-Advanced X (Twitter) Data Collector & Discourse Analysis Toolkit
+Advanced X (Twitter) data collection and discourse analysis toolkit built with Python and Playwright.
 
-xscrape is a Python-based automation framework designed for social media intelligence, public discourse research, and large-scale conversation analysis on X (Twitter).
-
-Built with Playwright, xscrape enables researchers, analysts, journalists, and OSINT practitioners to collect and analyze public conversations efficiently using targeted search queries.
+xscrape is designed for researchers, analysts, and OSINT practitioners who need to collect public conversations from X (Twitter), analyze replies, map discussion dynamics, and export structured datasets for further analysis.
 
 ---
 
 ## Features
 
-- Keyword-based tweet scraping
-- Real-time public conversation collection
-- Reply & comment thread extraction
-- Hashtag and mention mapping
+- Keyword-based tweet collection
+- Reply & comment extraction
 - Conversation flow analysis
-- Export to Excel (.xlsx)
-- Async scraping architecture using Playwright
-- Designed for research & intelligence workflows
+- Hashtag & mention mapping
+- Excel export support
+- Async scraping using Playwright
+- Optimized for Google Colab workflows
+
+---
+
+## Open in Google Colab
+
+Launch the notebook directly in Google Colab:
+
+ [Open xscrape in Colab](https://colab.research.google.com/drive/14ApbZLhEkVgTCX1HnKXihkwwEwa0F0t5#scrollTo=km9hWG2X8ySN)
 
 ---
 
@@ -26,18 +31,26 @@ Built with Playwright, xscrape enables researchers, analysts, journalists, and O
 - Social media monitoring
 - Public sentiment analysis
 - Political discourse research
-- Brand monitoring
 - Narrative tracking
+- Brand monitoring
 - OSINT investigations
-- Community behavior analysis
 
 ---
 
-## Installation
+## Authentication
 
-```bash
-git clone https://github.com/yourusername/xscrape.git
-cd xscrape
+xscrape requires a valid X (Twitter) `auth_token` from an active browser session.
 
-pip install -r requirements.txt
-playwright install
+Keep your token private and never share it publicly.
+
+---
+
+## Disclaimer
+
+This project is intended for research and educational purposes only. Users are responsible for complying with platform policies and applicable regulations.
+
+---
+
+## Author
+
+Developed by Alam Mahadika
