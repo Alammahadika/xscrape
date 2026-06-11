@@ -1,5 +1,8 @@
 # [xscrape](https://colab.research.google.com/drive/14ApbZLhEkVgTCX1HnKXihkwwEwa0F0t5#scrollTo=zfrq0PtTqwkh)
 
+
+# [xscrape](https://colab.research.google.com/drive/14ApbZLhEkVgTCX1HnKXihkwwEwa0F0t5#scrollTo=zfrq0PtTqwkh)
+
 Advanced X (Twitter) data collection and discourse analysis toolkit built with Python and Playwright.
 
 xscrape is designed for researchers, analysts, and OSINT practitioners who need to collect public conversations from X (Twitter), analyze replies, map discussion dynamics, and export structured datasets for further analysis.
