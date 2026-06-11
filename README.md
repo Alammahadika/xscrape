@@ -1,7 +1,4 @@
-# [xscrape](https://colab.research.google.com/drive/14ApbZLhEkVgTCX1HnKXihkwwEwa0F0t5#scrollTo=zfrq0PtTqwkh)
-
-
-# [xscrape](https://colab.research.google.com/drive/14ApbZLhEkVgTCX1HnKXihkwwEwa0F0t5#scrollTo=zfrq0PtTqwkh)
+# [xscrape](https://colab.research.google.com/drive/14ApbZLhEkVgTCX1HnKXihkwwEwa0F0t5?usp=sharing)
 
 Advanced X (Twitter) data collection and discourse analysis toolkit built with Python and Playwright.
 
