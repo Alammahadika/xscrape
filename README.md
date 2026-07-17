@@ -53,4 +53,4 @@ This project is intended for research and educational purposes only. Users are r
 
 ## Author
 
-Developed by Alam Mahadika
+Developed by Alam Mahadika (2026)
